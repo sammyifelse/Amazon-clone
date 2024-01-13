@@ -30,7 +30,7 @@ License
 This project is licensed under the MIT License.
 
 Author
-[Your Name]
+Samarjit
 
 Additional Notes
 Feel free to customize the design and features to your liking.
